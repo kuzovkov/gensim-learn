@@ -5,3 +5,4 @@ from corpora import corpora
 
 from transformations import transformations
 
+from similarity import similarity
